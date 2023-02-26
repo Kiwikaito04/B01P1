@@ -11,7 +11,7 @@ namespace TH01P1
     {
         public static void Main(string[] args)
         {
-            //Bai1();
+            Bai1();
             //Bai2a3();
             //Bai4();
             //Bai5();
